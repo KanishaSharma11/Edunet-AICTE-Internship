@@ -11,7 +11,7 @@ To train a regression model that can accurately predict specific water quality p
 1. **Data Loading & Preprocessing**
    - Reading the dataset from CSV.
    - Handling missing values.
-   - Feature scaling or normalization (if applicable).
+   - Feature scaling or normalization.
    - Splitting data into training and testing sets.
 
 2. **Model Implementation**
