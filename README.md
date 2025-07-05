@@ -31,6 +31,9 @@ To train a regression model that can accurately predict specific water quality p
 - NumPy
 - Scikit-learn
 - Jupyter Notebook
-- joblib
-- streamlit
-- pickle
+- Joblib
+- Streamlit
+- Pickle
+
+## **💻 Demo**
+![App Screenshot](Image1.png)
